@@ -10,4 +10,7 @@ https://dzone.com/articles/producer-consumer-pattern
 **Short polling** would be hitting F5 on a website. The reason this is slightly less efficient is if it fails it needs to continuously ping the server and ultimatley cost the producer more in the long run. 
 
 
+### Amazon Documentation
+
+**_https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html#sqs-long-polling_**
 
